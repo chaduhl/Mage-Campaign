@@ -1,6 +1,7 @@
 mkdocs-material
 mkdocs-callouts
 mkdocs-glightbox
+mkdocs-roamlinks-plugin
 mkdocs-obsidian-bridge
 mkdocs-obsidian-support-plugin
 mkdocs-obsidian-interactive-graph-plugin
