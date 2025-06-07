@@ -1,7 +1,5 @@
 ﻿site_name: MAGE
 
-docs_dir: ''
-
 exclude_docs: |
     /docs
 
