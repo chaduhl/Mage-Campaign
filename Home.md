@@ -1,3 +1,3 @@
 #meta 
 
-Test home page
+Test home page. Trying a link [[Henry Carroll Gates]].
