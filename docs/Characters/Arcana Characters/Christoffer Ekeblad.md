@@ -8,7 +8,7 @@ tags:
 - Domain: Prime, Entropy
 - Rank: *Magister Scholae* (8)
 
-![King of Swords|200](https://upload.wikimedia.org/wikipedia/commons/3/33/Swords14.jpg)
+![300](https://upload.wikimedia.org/wikipedia/commons/3/33/Swords14.jpg)
 
 ==TODO==
 ## Relations

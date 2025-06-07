@@ -4,7 +4,7 @@ tags:
   - Character
 ---
 [[Henry Carroll Gates]]
-[[Leo Rosenfield (HolyBoiii)]]
+[[Leo Rosenfield]]
 [[Inga]]
 [[Idun]]
 

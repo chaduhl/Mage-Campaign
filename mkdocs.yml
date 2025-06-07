@@ -1,42 +1,82 @@
-﻿site_name: MAGE
+﻿site_name: "Mage: The Ascension"
+site_url: https://chaduhl.github.io/Mage-Campaign/
 
-exclude_docs: |
-    /docs
-    /venv
+site_description: Notes from our Mage Campaign
+site_author: chaduhl
+
+#repo_url: https://https://github.com/chaduhl/Mage-Campaign/
+edit_uri: 'blob/main/docs/'
+edit_uri_template: 'blob/main/docs/{path}'
 
 theme:
-    name: material
-    palette:
+  name: material
+  icon:
+    logo: material/wizard-hat
+  language: en
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: black
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: deep purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-
-    language: en
-
-markdown_extensions:
-  - nl2br
-  - tables
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - def_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+  features:
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - navigation.expand
+    - navigation.indexes
+    # navigation.instant      # WARN: breaks some javascripts
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
 
 plugins:
   - callouts
-  - roamlinks
   - search
   - tags
+  - glightbox
+  - obsidian-interactive-graph
+  - roamlinks
+  #- obsidian-support
+  - obsidian-bridge
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  #- nl2br
+  - obsidian_media_mkdocs
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - sane_lists
+  - tables
+
+extra_css:
+  - assets/stylesheets/obsidian_tags.css
+  - assets/stylesheets/interactive_graph.css
+  #- assets/stylesheets/extra.css
+
+extra_javascript:
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - assets/javascripts/obsidian_tags.js
+  - assets/javascripts/interactive_graph.js

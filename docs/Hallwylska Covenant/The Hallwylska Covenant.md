@@ -14,23 +14,23 @@ tags:
 
 ## Council Members
 
-#### [[Christoffer Ekeblad]]
+### [[Christoffer Ekeblad]]
 *Patriarcha*
 Domain: Prime, Entropy
-#### [[Saga Ekeblad]]
+### [[Saga Ekeblad]]
 *Quaesitor* (new)
 Domain: Time, Correspondence
-#### [[Valdemar Thygesen]]
+### [[Valdemar Thygesen]]
 *Patronus*
 Domain: Forces, Matter
-#### [[Hildegard Vesars]]
+### [[Hildegard Vesars]]
 *Sacerdos*
 Domain: Life, Spirit
-#### [[Nicholas Horsfall]]
+### [[Nicholas Horsfall]]
 *Sapiens*
 Domain: Mind
 
-### Images
+## Images
 
 ![Hallwylska Palace|700](https://www.city-guide-stockholm.com/_bibli/annonces/409/hd/hallwylska-museet-2.jpg)
 

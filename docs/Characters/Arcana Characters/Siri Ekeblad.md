@@ -9,7 +9,7 @@ tags:
 - Craft Name: Siri Ekeblad _bani_ Bonisagus
 - Rank: *Practicus* (3)
 
-![Knight of Swords|200](https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg)
+![300](https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg)
 
 ==TODO==
 

@@ -10,7 +10,7 @@ tags:
 - Professor of Classics
 - Rank: *Adept Major* (7)
 
-![Queen of Swords|200](https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg)
+![300](https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg)
 
 ==TODO==
 

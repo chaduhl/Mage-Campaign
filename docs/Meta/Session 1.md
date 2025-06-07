@@ -20,7 +20,7 @@ Noon
 	- Liquid Cups
 	- Pay2Go
 
-[[Leo Rosenfield (HolyBoiii)|@HolyBoiii]]
+[[Leo Rosenfield|@HolyBoiii]]
 - Veronica’s dream morning routine
 - Agent sends discord message
 	- Yooooooooo holyboiiiiiiiiiii

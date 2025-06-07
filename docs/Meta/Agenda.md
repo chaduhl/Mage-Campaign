@@ -7,3 +7,4 @@ tags:
 - [x] Flesh out goals about Bornholm
 - [x] Flesh out info about Erikslund
 - [x] Flesh out info about Strålsund and megalithic structures (Rüger)
+- [ ] Add tag-based filtering to obsidian interactive graph plugin
