@@ -1,4 +1,8 @@
-#meta
+---
+tags:
+  - meta
+---
+5 June 2025
 
 Noon
 - Turning of the cycle (Jenny)
@@ -28,7 +32,7 @@ Noon
 - No shower
 - Finishes ice cream, brushes teeth
 
-Inga:
+[[Inga]]:
 - App appears on her phone shortly after her Awakening and it cannot be deleted
 - App is a platform mixed between social media and like a job posting site
 - Offered gigs from the app 
@@ -48,7 +52,7 @@ Inga:
 		- Precision in the vampire sculpture is unmatched
 		- She brings copies where she tried to mimic the reality
 
-Henry
+[[Henry Carroll Gates]]
 - Invitation to give a lecture based on the lecture from my awakening
 - AI is responding to me 
 - Astrid nordqvist
@@ -57,7 +61,7 @@ Henry
 - Subject matter experts in neuroscience, behavioral science, psychology
 - Various historians in my group
 
-We all arrive at the Avalon Expo
+We all arrive at the Avalon [[Tech Expo]]
 
 Project showcase for Eidolon
 Eidolon is a new ai that gives everyone an eidolon/avatar
@@ -79,6 +83,3 @@ Astrid comes on pre-recorded to explain the app and ai behind what brought us he
 
 Notifications go off all across the convention center. We get notifications. 
 It says: Kill the person on your left.
-
-Hapax legomena in Plautus’ Pseudolus
-_phronesis_, _monetrix_,

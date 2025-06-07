@@ -1,5 +1,9 @@
-#Unafiliated
-
+---
+tags:
+  - Unafiliated
+  - Me
+  - Character
+---
 - Nickname: Sam
 - Best Friend to [[Henry Carroll Gates]]
 - PhD Candidate in Math at MIT

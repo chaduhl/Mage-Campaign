@@ -1,4 +1,8 @@
-#Order-of-Hermes 
+---
+tags:
+  - Order-of-Hermes
+  - Character
+---
 
 - Rival of [[Henry Carroll Gates]]
 - Member of [[The Hallwylska Covenant]]

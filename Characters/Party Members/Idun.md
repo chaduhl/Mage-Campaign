@@ -1,6 +1,10 @@
+---
+tags:
+  - Euthanatos
+  - Party
+  - Character
+---
 _Jenny_
-
-#Euthanatos
 
 ## Quick Facts
 

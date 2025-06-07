@@ -1,4 +1,8 @@
-#Order-of-Hermes 
+---
+tags:
+  - Order-of-Hermes
+  - Character
+---
 
 - _Patriarcha_ of [[The Hallwylska Covenant]]
 - Domain: Prime, Entropy

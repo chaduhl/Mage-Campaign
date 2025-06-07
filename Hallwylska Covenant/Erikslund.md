@@ -1,3 +1,7 @@
+---
+tags:
+  - Chantry
+---
 Manor house maintained by [[The Hallwylska Covenant]] outside of Stockholm between Trosa and Vagnhärad. It is used by the Covenant as a location for private activities outside the city and is built upon an ancient Node.
 
 The shoddy farmhouse visible by Sleepers today is nothing more tdhan the House of Bonisagus weaving the Art around this sacred place. The true Erikslund is a primeval forest, pulsing with ancient power. 

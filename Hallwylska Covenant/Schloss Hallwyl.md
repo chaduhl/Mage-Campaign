@@ -1,3 +1,7 @@
+---
+tags:
+  - Chantry
+---
 - The _Domus Secundus_ of House Bonisagus
 - Information: [Schloss Hallwyl](https://en.wikipedia.org/wiki/Hallwyl_Castle)
 - Location: [Seengen, Switzerland](https://maps.app.goo.gl/w7trHYMJHEXUQnN67)

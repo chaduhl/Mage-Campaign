@@ -1,6 +1,10 @@
+---
+tags:
+  - Celestial-Chorus
+  - Party
+  - Character
+---
 _Veronica_
-
-#Celestial-Chorus
 
 ![BITCH|400](https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24166883/IWTV_105_AB_0314_0474_RT.jpg?quality=90&strip=all&crop=16.669477234401%2C0%2C66.661045531197%2C100&w=2400)
 

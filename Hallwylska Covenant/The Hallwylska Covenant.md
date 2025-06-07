@@ -1,3 +1,9 @@
+---
+tags:
+  - Chantry
+  - Me
+  - Character
+---
 - The _Domus Magnus_ (disputed) of House Bonisagus
 - Hallwylska Palace, Stockholm
 - Chantry Level: Stronghold
@@ -14,7 +20,7 @@ Domain: Prime, Entropy
 #### [[Saga Ekeblad]]
 *Quaesitor* (new)
 Domain: Time, Correspondence
-#### [[Valdemar Thygesen]]
+#### [[Valdemar Thygesen]]
 *Patronus*
 Domain: Forces, Matter
 #### [[Hildegard Vesars]]

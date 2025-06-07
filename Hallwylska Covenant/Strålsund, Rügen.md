@@ -1,3 +1,7 @@
+---
+tags:
+  - Chantry
+---
 [[The Hallwylska Covenant]]
 
 - Largest island in Germany

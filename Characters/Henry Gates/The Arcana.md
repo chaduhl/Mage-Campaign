@@ -1,3 +1,7 @@
+---
+tags:
+  - Me
+---
 ## Major Arcana: Emperor 👑
 ### ==TODO: Description==
 ***

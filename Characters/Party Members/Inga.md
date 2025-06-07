@@ -1,6 +1,10 @@
+---
+tags:
+  - Cult-of-Ecstasy
+  - Party
+  - Character
+---
 _Johanna_
-
-#Cult-of-Ecstasy
 
 ## Quick Facts
 

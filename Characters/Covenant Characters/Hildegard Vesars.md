@@ -1,4 +1,8 @@
-#Order-of-Hermes
+---
+tags:
+  - Order-of-Hermes
+  - Character
+---
 
 - German
 - _Sacerdos_ of [[The Hallwylska Covenant]]

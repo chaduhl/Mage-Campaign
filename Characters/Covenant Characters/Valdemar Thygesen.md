@@ -1,4 +1,8 @@
-#Order-of-Hermes 
+---
+tags:
+  - Order-of-Hermes
+  - Character
+---
 
 - Danish
 - *Patronus* of [[The Hallwylska Covenant]]

@@ -1,4 +1,8 @@
-#Order-of-Hermes 
+---
+tags:
+  - Order-of-Hermes
+  - Character
+---
 
 - *Mater* to [[Henry Carroll Gates]]
 - _Quaesitor_ for [[The Hallwylska Covenant]]

@@ -1,4 +1,9 @@
-#Order-of-Hermes 
+---
+tags:
+  - Me
+  - Order-of-Hermes
+  - Character
+---
 
 ![Colin Morgan|230](https://64.media.tumblr.com/cc7ab8ed2bb9bfa11d789f134029de18/tumblr_pnuz0uif9F1s1tlt7_1280.png) ![Emperor|200](https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg) ![Ace of Swords|200](https://upload.wikimedia.org/wikipedia/commons/1/1a/Swords01.jpg)
 
@@ -52,23 +57,24 @@ A _genius_ from Roman wallpainting and sculpture.
 Much like a grandfather, _Pater_ is calm and wizened, though will make some playful jokes from time to time.
 
 ## Biographical Data
-| Category         | Data      |
-| ---------------- | --------- |
-| Age              | 25        |
-| Apparent Age     | 25        |
-| Date of Birth    | 1/1/2000, 21:00  |
-| Place of Birth   | Cambridge, MA |
-| Sun Sign         | ♑️ Capricorn |
-| Moon Sign        | ♏️ Scorpio   |
-| Rising Sign      | ♍️ Virgo     |
-| Age of Awakening | 22        |
-| Hair             | Black     |
-| Eyes             | Blue      |
-| Ethnicity        | WASP      |
-| Nationality      | USA       |
-| Height           | 185 cm    |
-| Weight           | 80 kg     |
-| Sex              | Male      |
+| Category         | Data            |
+| ---------------- | --------------- |
+| Age              | 25              |
+| Apparent Age     | 25              |
+| Date of Birth    | 1/1/2000, 21:00 |
+| Place of Birth   | Cambridge, MA   |
+| Sun Sign         | ♑️ Capricorn    |
+| Moon Sign        | ♏️ Scorpio      |
+| Rising Sign      | ♍️ Virgo        |
+| Age of Awakening | 22              |
+| Hair             | Black           |
+| Eyes             | Blue            |
+| Ethnicity        | WASP            |
+| Nationality      | USA             |
+| Height           | 185 cm          |
+| Weight           | 80 kg           |
+| Sex              | Male            |
+
 ## Languages
 1. English
 2. Latin
