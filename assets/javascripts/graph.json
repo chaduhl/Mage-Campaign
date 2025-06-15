@@ -1,0 +1,408 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home",
+      "symbolSize": 4,
+      "value": "/Mage-Campaign/"
+    },
+    {
+      "id": "1",
+      "name": "Avalon Industries",
+      "symbolSize": 10,
+      "value": "/Mage-Campaign/Avalon/Avalon%20Industries/"
+    },
+    {
+      "id": "2",
+      "name": "Eidolon",
+      "symbolSize": 6,
+      "value": "/Mage-Campaign/Avalon/Eidolon/"
+    },
+    {
+      "id": "3",
+      "name": "Tech Expo",
+      "symbolSize": 6,
+      "value": "/Mage-Campaign/Avalon/Tech%20Expo/"
+    },
+    {
+      "id": "4",
+      "name": "Technocratic Union",
+      "symbolSize": 4,
+      "value": "/Mage-Campaign/Avalon/Technocratic%20Union/"
+    },
+    {
+      "id": "5",
+      "name": "Christoffer Ekeblad",
+      "symbolSize": 7,
+      "value": "/Mage-Campaign/Characters/Arcana%20Characters/Christoffer%20Ekeblad/"
+    },
+    {
+      "id": "6",
+      "name": "Saga Ekeblad",
+      "symbolSize": 8,
+      "value": "/Mage-Campaign/Characters/Arcana%20Characters/Saga%20Ekeblad/"
+    },
+    {
+      "id": "7",
+      "name": "Samuel Watson",
+      "symbolSize": 3,
+      "value": "/Mage-Campaign/Characters/Arcana%20Characters/Samuel%20Watson/"
+    },
+    {
+      "id": "8",
+      "name": "Siri Ekeblad",
+      "symbolSize": 7,
+      "value": "/Mage-Campaign/Characters/Arcana%20Characters/Siri%20Ekeblad/"
+    },
+    {
+      "id": "9",
+      "name": "Astrid Nordqvist",
+      "symbolSize": 4,
+      "value": "/Mage-Campaign/Characters/Avalon%20Characters/Astrid%20Nordqvist/"
+    },
+    {
+      "id": "10",
+      "name": "Hildegard Vesars",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Characters/Covenant%20Characters/Hildegard%20Vesars/"
+    },
+    {
+      "id": "11",
+      "name": "Nicholas Horsfall",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Characters/Covenant%20Characters/Nicholas%20Horsfall/"
+    },
+    {
+      "id": "12",
+      "name": "Valdemar Thygesen",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Characters/Covenant%20Characters/Valdemar%20Thygesen/"
+    },
+    {
+      "id": "13",
+      "name": "Henry Carroll Gates",
+      "symbolSize": 12,
+      "value": "/Mage-Campaign/Characters/Party%20Members/Henry%20Carroll%20Gates/"
+    },
+    {
+      "id": "14",
+      "name": "Idun",
+      "symbolSize": 4,
+      "value": "/Mage-Campaign/Characters/Party%20Members/Idun/"
+    },
+    {
+      "id": "15",
+      "name": "Inga",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Characters/Party%20Members/Inga/"
+    },
+    {
+      "id": "16",
+      "name": "Leo Rosenfield",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Characters/Party%20Members/Leo%20Rosenfield/"
+    },
+    {
+      "id": "17",
+      "name": "The Arcana",
+      "symbolSize": 1,
+      "value": "/Mage-Campaign/Characters/Party%20Members/The%20Arcana/"
+    },
+    {
+      "id": "18",
+      "name": "The Party",
+      "symbolSize": 4,
+      "value": "/Mage-Campaign/Characters/Party%20Members/The%20Party/"
+    },
+    {
+      "id": "19",
+      "name": "Erikslund",
+      "symbolSize": 3,
+      "value": "/Mage-Campaign/Hallwylska%20Covenant/Erikslund/"
+    },
+    {
+      "id": "20",
+      "name": "Schloss Hallwyl",
+      "symbolSize": 2,
+      "value": "/Mage-Campaign/Hallwylska%20Covenant/Schloss%20Hallwyl/"
+    },
+    {
+      "id": "21",
+      "name": "Stra\u030alsund, Ru\u0308gen",
+      "symbolSize": 1,
+      "value": "/Mage-Campaign/Hallwylska%20Covenant/Stra%CC%8Alsund%2C%20Ru%CC%88gen/"
+    },
+    {
+      "id": "22",
+      "name": "The Hallwylska Covenant",
+      "symbolSize": 18,
+      "value": "/Mage-Campaign/Hallwylska%20Covenant/The%20Hallwylska%20Covenant/"
+    },
+    {
+      "id": "23",
+      "name": "Agenda",
+      "symbolSize": 0,
+      "value": "/Mage-Campaign/Meta/Agenda/"
+    },
+    {
+      "id": "24",
+      "name": "Session 1",
+      "symbolSize": 12,
+      "value": "/Mage-Campaign/Meta/Session%201/"
+    }
+  ],
+  "links": [
+    {
+      "source": "0",
+      "target": "24"
+    },
+    {
+      "source": "0",
+      "target": "3"
+    },
+    {
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "source": "0",
+      "target": "2"
+    },
+    {
+      "source": "1",
+      "target": "14"
+    },
+    {
+      "source": "2",
+      "target": "1"
+    },
+    {
+      "source": "2",
+      "target": "3"
+    },
+    {
+      "source": "3",
+      "target": "1"
+    },
+    {
+      "source": "4",
+      "target": "1"
+    },
+    {
+      "source": "4",
+      "target": "2"
+    },
+    {
+      "source": "4",
+      "target": "3"
+    },
+    {
+      "source": "5",
+      "target": "22"
+    },
+    {
+      "source": "5",
+      "target": "6"
+    },
+    {
+      "source": "5",
+      "target": "8"
+    },
+    {
+      "source": "6",
+      "target": "13"
+    },
+    {
+      "source": "6",
+      "target": "22"
+    },
+    {
+      "source": "6",
+      "target": "5"
+    },
+    {
+      "source": "6",
+      "target": "8"
+    },
+    {
+      "source": "7",
+      "target": "13"
+    },
+    {
+      "source": "7",
+      "target": "13"
+    },
+    {
+      "source": "8",
+      "target": "13"
+    },
+    {
+      "source": "8",
+      "target": "22"
+    },
+    {
+      "source": "8",
+      "target": "6"
+    },
+    {
+      "source": "8",
+      "target": "5"
+    },
+    {
+      "source": "9",
+      "target": "1"
+    },
+    {
+      "source": "9",
+      "target": "4"
+    },
+    {
+      "source": "9",
+      "target": "2"
+    },
+    {
+      "source": "10",
+      "target": "22"
+    },
+    {
+      "source": "11",
+      "target": "22"
+    },
+    {
+      "source": "12",
+      "target": "22"
+    },
+    {
+      "source": "13",
+      "target": "17"
+    },
+    {
+      "source": "13",
+      "target": "22"
+    },
+    {
+      "source": "13",
+      "target": "5"
+    },
+    {
+      "source": "13",
+      "target": "6"
+    },
+    {
+      "source": "13",
+      "target": "8"
+    },
+    {
+      "source": "13",
+      "target": "7"
+    },
+    {
+      "source": "14",
+      "target": "1"
+    },
+    {
+      "source": "18",
+      "target": "13"
+    },
+    {
+      "source": "18",
+      "target": "16"
+    },
+    {
+      "source": "18",
+      "target": "15"
+    },
+    {
+      "source": "18",
+      "target": "14"
+    },
+    {
+      "source": "19",
+      "target": "22"
+    },
+    {
+      "source": "19",
+      "target": "22"
+    },
+    {
+      "source": "20",
+      "target": "22"
+    },
+    {
+      "source": "21",
+      "target": "22"
+    },
+    {
+      "source": "22",
+      "target": "19"
+    },
+    {
+      "source": "22",
+      "target": "20"
+    },
+    {
+      "source": "22",
+      "target": "5"
+    },
+    {
+      "source": "22",
+      "target": "6"
+    },
+    {
+      "source": "22",
+      "target": "12"
+    },
+    {
+      "source": "22",
+      "target": "10"
+    },
+    {
+      "source": "22",
+      "target": "11"
+    },
+    {
+      "source": "24",
+      "target": "3"
+    },
+    {
+      "source": "24",
+      "target": "1"
+    },
+    {
+      "source": "24",
+      "target": "14"
+    },
+    {
+      "source": "24",
+      "target": "16"
+    },
+    {
+      "source": "24",
+      "target": "1"
+    },
+    {
+      "source": "24",
+      "target": "15"
+    },
+    {
+      "source": "24",
+      "target": "1"
+    },
+    {
+      "source": "24",
+      "target": "13"
+    },
+    {
+      "source": "24",
+      "target": "3"
+    },
+    {
+      "source": "24",
+      "target": "2"
+    },
+    {
+      "source": "24",
+      "target": "9"
+    }
+  ]
+}
