@@ -10,8 +10,5 @@ tags:
 - Rank: *Practicus* (3)
 
 ![300](https://upload.wikimedia.org/wikipedia/commons/b/b0/Swords12.jpg)
-
-==TODO==
-
 ## Relations
 - Daughter of [[Saga Ekeblad]] and [[Christoffer Ekeblad]]

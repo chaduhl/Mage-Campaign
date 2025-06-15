@@ -12,8 +12,6 @@ tags:
 
 ![300](https://upload.wikimedia.org/wikipedia/commons/d/d4/Swords13.jpg)
 
-==TODO==
-
 ## Relations
 - Wife of [[Christoffer Ekeblad]]
 - Mother of [[Siri Ekeblad]]

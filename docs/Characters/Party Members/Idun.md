@@ -6,6 +6,7 @@ tags:
 ---
 _Jenny_
 
+![230](https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg)
 ## Quick Facts
 
 - Jaded, corporate goth

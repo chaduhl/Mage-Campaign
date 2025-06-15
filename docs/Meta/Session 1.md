@@ -63,21 +63,19 @@ Noon
 
 We all arrive at the Avalon [[Tech Expo]]
 
-Project showcase for Eidolon
-Eidolon is a new ai that gives everyone an eidolon/avatar
-V: could also drain avatars
+Project showcase for [[Eidolon]]
+- Eidolon may be a new ai that gives everyone an eidolon/avatar
+- V: could also drain avatars
 
 Leo spots Idun as an otherworldly figure… the angel that saved him.
 They lock eyes and then ignore each other
 
-Precise pattern in which Inga’s art is being displayed in. Many compliments from people who invite her to a private lounge.
-Idun meets Inga. Directs her toward the artists’ lounge. The orange room.
+Precise pattern in which Inga’s art is being displayed. Many compliments from people who invite her to a private lounge.
+Idun meets Inga. Directs her toward the artists’ lounge (12). The orange room.
 
-We all meet in the private lounge
-Except Idun 
-
-Idun meets Astrid Nordqvist, who hasn’t slept for days
-She’s send Idun to lounge 12 to check on us
+We all meet in the private lounge, except Idun.
+Idun meets [[Astrid Nordqvist]], who hasn’t slept for days
+She’s send Idun to lounge 12 to check on us and keep us there.
 
 Astrid comes on pre-recorded to explain the app and ai behind what brought us here. We are part of the pilot program. For a limited time, we will have unrestricted access. 
 
